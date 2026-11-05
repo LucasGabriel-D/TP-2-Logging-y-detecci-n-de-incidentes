@@ -13,8 +13,7 @@ Pruebas realizadas
 Entre escenarios se reinició el estado con `php artisan cache:clear` y `TRUNCATE login_attempts;`.
 
 Extracto del log:
-
-    <img width="1013" height="578" alt="image" src="https://github.com/user-attachments/assets/f6fb798e-c93d-43b3-bc8d-38bd55ade2ff" />
+<img width="1013" height="578" alt="image" src="https://github.com/user-attachments/assets/8061da71-ac52-4681-8493-bd9f49dc50e8" />
 
 Consultas SQL ejecutadas en phpMyAdmin: ver `capturas/08-consultas.png`.
 
